@@ -1,4 +1,4 @@
 # EjerciciosPHP
 * Funciones php:
   * Para arrays:
-    * ```array_sum();````
+    * ```array_sum();```
