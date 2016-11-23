@@ -1,2 +1,4 @@
 # EjerciciosPHP
-echo "Soy la polla";
+* Funciones php:
+  * Para arrays:
+    * ```array_sum();````
